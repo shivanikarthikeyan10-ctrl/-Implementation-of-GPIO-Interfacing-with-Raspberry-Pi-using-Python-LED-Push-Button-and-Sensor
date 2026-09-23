@@ -163,6 +163,7 @@ When neither input condition is active, the LED remains OFF.
 
 <img width="1301" height="850" alt="image" src="https://github.com/user-attachments/assets/8a3ab2af-5be6-4968-87d2-ff4879a75ec2" />
 
+<img width="1600" height="1171" alt="image" src="https://github.com/user-attachments/assets/2e337633-ac46-48fc-8fe2-7f50aba25a94" />
 
 ## 10. RESULT
 
